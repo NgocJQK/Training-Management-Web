@@ -1,0 +1,13 @@
+Template layout chính
+https://getbootstrap.com/docs/4.6/examples/dashboard/
+
+
+Template trang login
+https://getbootstrap.com/docs/4.6/examples/sign-in/
+
+
+-----------------------
+Các chức năng chính
+1.Đăng nhập
+2.Xem danh sách sinh viên, giảng viên dành cho admin
+3.Thêm mới, sửa, xóa người dùng (sinh viên, giảng viên) dành cho admin
