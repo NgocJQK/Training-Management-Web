@@ -1,8 +1,8 @@
 <?php
-    $host = 'https://host120.vietnix.vn/';
-    $username_database = 'minhngocyn1@gmail.com';
-    $password_database = 'S08phamhung';
-    $db_name = 'hoangmi2_qldt';
+    $host = 'localhost';
+    $username_database = 'root';
+    $password_database = '';
+    $db_name = 'qldt';
     function connectDatabase($host, $username, $password, $db_name)
     {
         $connect = null;
